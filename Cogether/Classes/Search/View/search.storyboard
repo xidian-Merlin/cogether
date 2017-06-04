@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12118" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12086"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Tag Table View Controller-->
+        <scene sceneID="QV8-UZ-Tri">
+            <objects>
+                <tableViewController storyboardIdentifier="tagViewController" id="jfV-mX-Pws" customClass="TagTableViewController" customModule="Cogether" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="123" sectionHeaderHeight="28" sectionFooterHeight="28" id="rBU-Lr-7XC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="tagsCell" rowHeight="123" id="N4k-fU-K4G" customClass="TagsTableViewCell" customModule="Cogether" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="28" width="375" height="123"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="N4k-fU-K4G" id="EGV-fq-LuN">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="123"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qjt-xf-754">
+                                            <rect key="frame" x="8" y="0.0" width="359" height="24"/>
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="24" id="NTZ-6q-uOV"/>
+                                            </constraints>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PDt-jC-jXo" customClass="TTGTextTagCollectionView">
+                                            <rect key="frame" x="8" y="32" width="359" height="83"/>
+                                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        </view>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstAttribute="bottom" secondItem="PDt-jC-jXo" secondAttribute="bottom" constant="7.5" id="6fB-hl-gcT"/>
+                                        <constraint firstItem="PDt-jC-jXo" firstAttribute="top" secondItem="qjt-xf-754" secondAttribute="bottom" constant="8" id="Fg7-Bc-KB0"/>
+                                        <constraint firstItem="qjt-xf-754" firstAttribute="leading" secondItem="EGV-fq-LuN" secondAttribute="leading" constant="8" id="Hee-h9-LEJ"/>
+                                        <constraint firstItem="qjt-xf-754" firstAttribute="top" secondItem="EGV-fq-LuN" secondAttribute="top" id="Nom-FS-wAl"/>
+                                        <constraint firstAttribute="trailing" secondItem="PDt-jC-jXo" secondAttribute="trailing" constant="8" id="SPM-MT-DOu"/>
+                                        <constraint firstAttribute="trailing" secondItem="qjt-xf-754" secondAttribute="trailing" constant="8" id="jFi-lf-1yo"/>
+                                        <constraint firstItem="PDt-jC-jXo" firstAttribute="leading" secondItem="EGV-fq-LuN" secondAttribute="leading" constant="8" id="pum-BT-wE8"/>
+                                    </constraints>
+                                </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="lable" destination="qjt-xf-754" id="FbO-L8-0tp"/>
+                                    <outlet property="tagView" destination="PDt-jC-jXo" id="fjC-sO-yFZ"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="jfV-mX-Pws" id="Wgs-vj-cpJ"/>
+                            <outlet property="delegate" destination="jfV-mX-Pws" id="lhS-Lt-0AI"/>
+                        </connections>
+                    </tableView>
+                    <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" prompted="NO"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="KHe-I4-MqI" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-609" y="-95"/>
+        </scene>
+    </scenes>
+</document>
