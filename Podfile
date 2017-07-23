@@ -28,6 +28,8 @@ pod "Qiniu", "~> 7.1"
 
 pod 'YYText' #图文混排
 
+pod "RichEditorView"
+
 
 
 end

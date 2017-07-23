@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/AppDelegate.swift"
-            timestampString = "516680690.736077"
+            timestampString = "519791182.328952"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "80"
-            endingLineNumber = "80"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
             landmarkName = "application(_:didFinishLaunchingWithOptions:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,139 +26,139 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/AppDelegate.swift"
-            timestampString = "516680690.736077"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "97"
-            endingLineNumber = "97"
-            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Cogether/AppDelegate.swift"
-            timestampString = "516680690.736077"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "100"
-            endingLineNumber = "100"
-            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Cogether/AppDelegate.swift"
-            timestampString = "516680690.736077"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "102"
-            endingLineNumber = "102"
-            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Cogether/AppDelegate.swift"
-            timestampString = "516680690.736077"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "114"
-            endingLineNumber = "114"
-            landmarkName = "rootViewController()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Cogether/AppDelegate.swift"
-            timestampString = "516680690.736077"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "117"
-            endingLineNumber = "117"
-            landmarkName = "rootViewController()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Cogether/AppDelegate.swift"
-            timestampString = "516680690.736077"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "119"
-            endingLineNumber = "119"
-            landmarkName = "rootViewController()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Cogether/AppDelegate.swift"
-            timestampString = "516680690.736077"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "114"
-            endingLineNumber = "114"
-            landmarkName = "rootViewController()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Cogether/AppDelegate.swift"
-            timestampString = "516680690.736077"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "114"
-            endingLineNumber = "114"
-            landmarkName = "rootViewController()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Cogether/AppDelegate.swift"
-            timestampString = "516680690.736077"
+            timestampString = "519791182.328952"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "98"
             endingLineNumber = "98"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/AppDelegate.swift"
+            timestampString = "519791182.328952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/AppDelegate.swift"
+            timestampString = "519791182.328952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/AppDelegate.swift"
+            timestampString = "519791182.328952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "rootViewController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/AppDelegate.swift"
+            timestampString = "519791182.328952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "rootViewController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/AppDelegate.swift"
+            timestampString = "519791182.328952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "rootViewController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/AppDelegate.swift"
+            timestampString = "519791182.328952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "rootViewController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/AppDelegate.swift"
+            timestampString = "519791182.328952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "rootViewController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/AppDelegate.swift"
+            timestampString = "519791182.328952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
             landmarkName = "application(_:didFinishLaunchingWithOptions:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -234,11 +234,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/AppDelegate.swift"
-            timestampString = "517559451.715613"
+            timestampString = "519791182.328952"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "135"
-            endingLineNumber = "135"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
             landmarkName = "homePageViewShow()"
             landmarkType = "7">
          </BreakpointContent>
@@ -250,11 +250,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/AppDelegate.swift"
-            timestampString = "517559451.715613"
+            timestampString = "519791182.328952"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "138"
-            endingLineNumber = "138"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
             landmarkName = "homePageViewShow()"
             landmarkType = "7">
          </BreakpointContent>
@@ -266,11 +266,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Discover/Controller/DiscoverViewController.swift"
-            timestampString = "516854277.691673"
+            timestampString = "519796682.590593"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "124"
-            endingLineNumber = "124"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
             landmarkName = "DiscoverViewController"
             landmarkType = "3">
          </BreakpointContent>
@@ -606,7 +606,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.491681"
+                  timestampString = "519795991.537548"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "70"
@@ -621,7 +621,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.493839"
+                  timestampString = "519795991.539827"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "70"
@@ -702,7 +702,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.51045"
+                  timestampString = "519795991.557593"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "49"
@@ -717,7 +717,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.512672"
+                  timestampString = "519795991.559637"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "49"
@@ -732,7 +732,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.515644"
+                  timestampString = "519795991.561908"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "49"
@@ -747,7 +747,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.518679"
+                  timestampString = "519795991.563999"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "49"
@@ -780,7 +780,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.525744"
+                  timestampString = "519795991.570668"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
@@ -795,7 +795,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.527985"
+                  timestampString = "519795991.572915"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
@@ -810,7 +810,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.531173"
+                  timestampString = "519795991.574903"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "58"
@@ -825,7 +825,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.533256"
+                  timestampString = "519795991.576861"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
@@ -840,7 +840,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.535253"
+                  timestampString = "519795991.579128"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
@@ -873,7 +873,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.542716"
+                  timestampString = "519795991.586477"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
@@ -888,7 +888,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.544701"
+                  timestampString = "519795991.588537"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
@@ -903,7 +903,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.546648"
+                  timestampString = "519795991.590564"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "58"
@@ -918,7 +918,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.548585"
+                  timestampString = "519795991.592599"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
@@ -933,7 +933,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.550559"
+                  timestampString = "519795991.59481"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
@@ -982,7 +982,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.561696"
+                  timestampString = "519795991.610333"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
@@ -997,7 +997,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.563907"
+                  timestampString = "519795991.613453"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
@@ -1012,7 +1012,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.565863"
+                  timestampString = "519795991.61585"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "58"
@@ -1027,7 +1027,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.567808"
+                  timestampString = "519795991.618216"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
@@ -1042,7 +1042,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Me/Class/EditViewController.swift"
-                  timestampString = "518153729.570004"
+                  timestampString = "519795991.619692"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "57"
@@ -1171,11 +1171,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Other/NetworkTools.swift"
-            timestampString = "517462522.971602"
+            timestampString = "519791182.328952"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
             landmarkName = "requestData(methodType:urlString:parameters:finished:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1235,7 +1235,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Post/Controller/ShareViewController.swift"
-                  timestampString = "518153729.650261"
+                  timestampString = "519795991.64957"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "177"
@@ -1250,7 +1250,7 @@
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Post/Controller/ShareViewController.swift"
-                  timestampString = "518153729.652275"
+                  timestampString = "519795991.651231"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "177"
@@ -1299,13 +1299,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "517997860.438906"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "409"
-            endingLineNumber = "409"
-            landmarkName = "PostShareViewController"
-            landmarkType = "4">
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1315,13 +1315,45 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "517997860.438906"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "410"
-            endingLineNumber = "410"
-            landmarkName = "PostShareViewController"
-            landmarkType = "4">
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
+            timestampString = "519808511.569927"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
+            timestampString = "519808511.569927"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1331,13 +1363,141 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "517997860.438906"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "412"
-            endingLineNumber = "412"
-            landmarkName = "PostShareViewController"
-            landmarkType = "4">
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "contentFild"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
+            timestampString = "519808511.569927"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "contentFild"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[0] = Stack Promoted from Box&gt; of Cogether.PostShareViewController.(contentFild.getter : RichEditorView.RichEditorView).(closure #1)"
+                  moduleName = "Cogether"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
+                  timestampString = "519795991.671251"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "297">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cogether.PostShareViewController.(contentFild.getter : RichEditorView.RichEditorView).(closure #1).(closure #1)"
+                  moduleName = "Cogether"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
+                  timestampString = "519795991.67268"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
+            timestampString = "519808511.569927"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "contentFild"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
+            timestampString = "519808511.569927"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "contentFild"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
+            timestampString = "519808511.569927"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "contentFild"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
+            timestampString = "519808511.569927"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "contentFild"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
+            timestampString = "519808511.569927"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "contentFild"
+            landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1347,92 +1507,60 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "517997860.438906"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "403"
-            endingLineNumber = "403"
-            landmarkName = "PostShareViewController"
-            landmarkType = "4">
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "sigView"
+            landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "517997860.438906"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "405"
-            endingLineNumber = "405"
-            landmarkName = "PostShareViewController"
-            landmarkType = "4">
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "sigView"
+            landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "517997860.438906"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "406"
-            endingLineNumber = "406"
-            landmarkName = "PostShareViewController"
-            landmarkType = "4">
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "sigView"
+            landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "517997860.438906"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "411"
-            endingLineNumber = "411"
-            landmarkName = "PostShareViewController"
-            landmarkType = "4">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "517997860.438906"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "400"
-            endingLineNumber = "400"
-            landmarkName = "PostShareViewController"
-            landmarkType = "4">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "518155556.126811"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "509"
-            endingLineNumber = "509"
-            landmarkName = "deleteImage(sender:)"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1443,12 +1571,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "518155556.126811"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "511"
-            endingLineNumber = "511"
-            landmarkName = "deleteImage(sender:)"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1459,12 +1587,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "518155556.126811"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "512"
-            endingLineNumber = "512"
-            landmarkName = "deleteImage(sender:)"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1475,12 +1603,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "518155556.126811"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "513"
-            endingLineNumber = "513"
-            landmarkName = "deleteImage(sender:)"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1491,12 +1619,28 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "518153281.736521"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "506"
-            endingLineNumber = "506"
-            landmarkName = "deleteImage(sender:)"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/AppDelegate.swift"
+            timestampString = "519791182.328952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "getToken()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1507,43 +1651,43 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "518153281.736521"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "504"
-            endingLineNumber = "504"
-            landmarkName = "deleteImage(sender:)"
+            startingLineNumber = "388"
+            endingLineNumber = "388"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
             landmarkType = "7">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "Cogether.PostShareViewController.deleteImage (sender : Swift.Optional&lt;__ObjC.UIButton&gt;) -&gt; ()"
+                  symbolName = "Cogether.PostShareViewController.imagePickerController (__ObjC.UIImagePickerController, didFinishPickingMediaWithInfo : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-                  timestampString = "518153729.710885"
+                  timestampString = "519795984.251181"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "504"
-                  endingLineNumber = "504"
-                  offsetFromSymbolStart = "420">
+                  startingLineNumber = "382"
+                  endingLineNumber = "382"
+                  offsetFromSymbolStart = "460">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "Cogether.PostShareViewController.deleteImage (sender : Swift.Optional&lt;__ObjC.UIButton&gt;) -&gt; ()"
+                  symbolName = "Cogether.PostShareViewController.(imagePickerController (__ObjC.UIImagePickerController, didFinishPickingMediaWithInfo : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()).(closure #1)"
                   moduleName = "Cogether"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-                  timestampString = "518153729.712839"
+                  timestampString = "519795984.254006"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "504"
-                  endingLineNumber = "504"
-                  offsetFromSymbolStart = "2340">
+                  startingLineNumber = "383"
+                  endingLineNumber = "383"
+                  offsetFromSymbolStart = "66">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1555,11 +1699,27 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "518153237.54017"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "476"
-            endingLineNumber = "476"
+            startingLineNumber = "389"
+            endingLineNumber = "389"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
+            timestampString = "519808627.852908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "392"
+            endingLineNumber = "392"
             landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1571,11 +1731,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "518153238.668306"
+            timestampString = "519808511.569927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "483"
-            endingLineNumber = "483"
+            startingLineNumber = "390"
+            endingLineNumber = "390"
             landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1587,61 +1747,45 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "518153239.076696"
+            timestampString = "519808627.852908"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "484"
-            endingLineNumber = "484"
+            startingLineNumber = "399"
+            endingLineNumber = "399"
             landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "518153239.492192"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "486"
-            endingLineNumber = "486"
-            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "518153240.028343"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "488"
-            endingLineNumber = "488"
-            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
-            timestampString = "518153789.246614"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "507"
-            endingLineNumber = "507"
-            landmarkName = "deleteImage(sender:)"
-            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cogether.PostShareViewController.imagePickerController (__ObjC.UIImagePickerController, didFinishPickingMediaWithInfo : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "Cogether"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
+                  timestampString = "519796000.792274"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "391"
+                  endingLineNumber = "391"
+                  offsetFromSymbolStart = "1182">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cogether.PostShareViewController.(imagePickerController (__ObjC.UIImagePickerController, didFinishPickingMediaWithInfo : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()).(closure #1)"
+                  moduleName = "Cogether"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tongho/Documents/swift/Cogether/Cogether/Classes/Post/Controller/Post/PostShareViewController.swift"
+                  timestampString = "519796000.795471"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "391"
+                  endingLineNumber = "391"
+                  offsetFromSymbolStart = "1155">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

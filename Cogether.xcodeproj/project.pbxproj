@@ -20,6 +20,7 @@
 		894B0F851EDA62CB00F87EF4 /* ShareViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 894B0F841EDA62CB00F87EF4 /* ShareViewCell.xib */; };
 		894B0F891EDA69D600F87EF4 /* ShareViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894B0F881EDA69D600F87EF4 /* ShareViewCell.swift */; };
 		894B0F8B1EDA7B9900F87EF4 /* shareModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894B0F8A1EDA7B9900F87EF4 /* shareModel.swift */; };
+		89535B841EFB5B9D0012887A /* TokenHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89535B831EFB5B9D0012887A /* TokenHelper.swift */; };
 		89662D101EC5989F004768FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89662D0F1EC5989F004768FB /* AppDelegate.swift */; };
 		89662D151EC5989F004768FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89662D131EC5989F004768FB /* Main.storyboard */; };
 		89662D171EC5989F004768FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89662D161EC5989F004768FB /* Assets.xcassets */; };
@@ -61,6 +62,8 @@
 		89ED7D911ECB43430026E5FD /* DicoverSubViewFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89ED7D901ECB43430026E5FD /* DicoverSubViewFactory.swift */; };
 		89ED7D931ECBE06B0026E5FD /* THPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89ED7D921ECBE06B0026E5FD /* THPageViewController.swift */; };
 		89ED7D981ECBF1890026E5FD /* MyInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89ED7D971ECBF1890026E5FD /* MyInfoViewController.swift */; };
+		9DE9AF401F1CF90700EE87F8 /* ForgetPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE9AF3F1F1CF90700EE87F8 /* ForgetPasswordViewController.swift */; };
+		9DE9AF421F22DD4B00EE87F8 /* ReSettingPassWordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE9AF411F22DD4B00EE87F8 /* ReSettingPassWordViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +88,7 @@
 		5D291A329730FE50BCDC3704 /* Pods-Cogether.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Cogether.release.xcconfig"; path = "Pods/Target Support Files/Pods-Cogether/Pods-Cogether.release.xcconfig"; sourceTree = "<group>"; };
 		7BC2F7AC6F561969217B266F /* Pods-Cogether.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Cogether.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Cogether/Pods-Cogether.debug.xcconfig"; sourceTree = "<group>"; };
 		8915B9E21EDFAF42002613C7 /* YYText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = YYText.framework; path = "Pods/../build/Debug-iphoneos/YYText/YYText.framework"; sourceTree = "<group>"; };
+		891F00321EF955380090D5E3 /* RichEditorView.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RichEditorView.framework; path = "../../../Library/Developer/Xcode/DerivedData/Cogether-bivuqlngqmurwyaawjvpbblnqick/Build/Products/Debug-iphonesimulator/RichEditorView/RichEditorView.framework"; sourceTree = "<group>"; };
 		8921A3D71EE29A8B006B285A /* UserViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UserViewCell.swift; path = ../../Me/View/UserViewCell.swift; sourceTree = "<group>"; };
 		8921A3D81EE29A8B006B285A /* UserViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = UserViewCell.xib; path = ../../Me/View/UserViewCell.xib; sourceTree = "<group>"; };
 		8921A3DB1EE29F7B006B285A /* UserModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UserModel.swift; path = ../../Me/Model/UserModel.swift; sourceTree = "<group>"; };
@@ -96,6 +100,7 @@
 		894B0F841EDA62CB00F87EF4 /* ShareViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ShareViewCell.xib; sourceTree = "<group>"; };
 		894B0F881EDA69D600F87EF4 /* ShareViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShareViewCell.swift; sourceTree = "<group>"; };
 		894B0F8A1EDA7B9900F87EF4 /* shareModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = shareModel.swift; sourceTree = "<group>"; };
+		89535B831EFB5B9D0012887A /* TokenHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TokenHelper.swift; sourceTree = "<group>"; };
 		89662D0C1EC5989F004768FB /* Cogether.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cogether.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		89662D0F1EC5989F004768FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		89662D141EC5989F004768FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -145,6 +150,8 @@
 		89ED7D901ECB43430026E5FD /* DicoverSubViewFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DicoverSubViewFactory.swift; sourceTree = "<group>"; };
 		89ED7D921ECBE06B0026E5FD /* THPageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = THPageViewController.swift; sourceTree = "<group>"; };
 		89ED7D971ECBF1890026E5FD /* MyInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyInfoViewController.swift; sourceTree = "<group>"; };
+		9DE9AF3F1F1CF90700EE87F8 /* ForgetPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgetPasswordViewController.swift; sourceTree = "<group>"; };
+		9DE9AF411F22DD4B00EE87F8 /* ReSettingPassWordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReSettingPassWordViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -263,6 +270,8 @@
 				89662D591EC9F2E5004768FB /* LoginViewController.swift */,
 				89D7EFF11ED541B0005E7E3C /* RegistViewController.swift */,
 				89D7EFF31ED5CAC9005E7E3C /* SettingPassWordViewController.swift */,
+				9DE9AF3F1F1CF90700EE87F8 /* ForgetPasswordViewController.swift */,
+				9DE9AF411F22DD4B00EE87F8 /* ReSettingPassWordViewController.swift */,
 			);
 			path = Login;
 			sourceTree = "<group>";
@@ -316,6 +325,7 @@
 				898520FE1ED3CB8100C20CA1 /* NetworkTools.swift */,
 				89D7EFF51ED5D602005E7E3C /* API.swift */,
 				8944C7771ED7C02F00A68008 /* DataConverHelper.swift */,
+				89535B831EFB5B9D0012887A /* TokenHelper.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -492,6 +502,7 @@
 		8C2DACA491291E733CC74922 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				891F00321EF955380090D5E3 /* RichEditorView.framework */,
 				8915B9E21EDFAF42002613C7 /* YYText.framework */,
 				8936465B1EDB0C840085EF4C /* SDWebImage.framework */,
 				8944C7791ED7DD2100A68008 /* SVProgressHUD.framework */,
@@ -677,7 +688,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
 		BD1783507EC5017545BD2CFF /* [CP] Embed Pods Frameworks */ = {
@@ -715,7 +726,9 @@
 				89662D5E1EC9F2E5004768FB /* BaseSettingViewController.swift in Sources */,
 				8921A3D91EE29A8B006B285A /* UserViewCell.swift in Sources */,
 				89ED7D781ECB1F990026E5FD /* THUserHelper.swift in Sources */,
+				89535B841EFB5B9D0012887A /* TokenHelper.swift in Sources */,
 				89ED7D7F1ECB330D0026E5FD /* HelpViewController.swift in Sources */,
+				9DE9AF421F22DD4B00EE87F8 /* ReSettingPassWordViewController.swift in Sources */,
 				89ED7D8C1ECB3FAD0026E5FD /* DiscoverSubTitleView.swift in Sources */,
 				8936465F1EDC24830085EF4C /* ContentViewController.swift in Sources */,
 				89D7EFF41ED5CAC9005E7E3C /* SettingPassWordViewController.swift in Sources */,
@@ -727,6 +740,7 @@
 				898520FF1ED3CB8100C20CA1 /* NetworkTools.swift in Sources */,
 				89ED7D861ECB33400026E5FD /* DiscoverViewController.swift in Sources */,
 				89D7EFF21ED541B0005E7E3C /* RegistViewController.swift in Sources */,
+				9DE9AF401F1CF90700EE87F8 /* ForgetPasswordViewController.swift in Sources */,
 				894B0F8B1EDA7B9900F87EF4 /* shareModel.swift in Sources */,
 				89ED7D931ECBE06B0026E5FD /* THPageViewController.swift in Sources */,
 				8967EC2C1ECC521A00856B39 /* ButtonLayer.swift in Sources */,
@@ -903,7 +917,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.xidian.cogether;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/tongho/Documents/swift/Cogether/Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/a123/Documents/源来/Cogether/Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT} /**";
 			};
@@ -924,7 +938,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.xidian.cogether;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/tongho/Documents/swift/Cogether/Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/a123/Documents/源来/Cogether/Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT} /**";
 			};

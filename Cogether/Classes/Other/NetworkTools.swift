@@ -20,6 +20,8 @@ class NetworkTools: NSObject {
         let tools = NetworkTools()
         return tools
     }()
+    
+    
 }
 
 // MARK:- 封装请求方法

@@ -14,6 +14,7 @@ class SettingPassWordViewController: UIViewController {
     
     var userName:String?
     
+    @IBOutlet weak var submitBtn: UIButton!
 
     @IBOutlet weak var setPassword: UITextField!
     @IBOutlet weak var setPasswordAgain: UITextField!
@@ -66,7 +67,8 @@ class SettingPassWordViewController: UIViewController {
     }
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.title = "注册"
+        self.title = "设置密码"
+        submitBtn.backgroundColor = kSystemBlueColor
         //
 
         // Do any additional setup after loading the view.

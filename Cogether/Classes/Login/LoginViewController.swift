@@ -61,16 +61,15 @@ class LoginViewController: UIViewController {
         let registVc = sb.instantiateViewController(withIdentifier: "registView") as!  RegistViewController
         self.navigationController?.pushViewController(registVc, animated: true)
         
-        
-        
-        
-        
     }
     
     
     @IBAction func findPassWord(_ sender: UIButton) {
-        
         print("找回按钮被点击了")
+        //junp into the get password page
+        let sb = UIStoryboard(name:"Main",bundle:nil)
+        let forgetVc = sb.instantiateViewController(withIdentifier: "forgetView") as! ForgetPasswordViewController
+        self.navigationController?.pushViewController(forgetVc, animated: true)
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()

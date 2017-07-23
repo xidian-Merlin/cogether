@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import SwiftyJSON
 
 
 
@@ -29,19 +30,19 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     }
     
-   static let kApplicationShortcutUserInfoIcon = "ApplicationShortcutUserInfoIconKey"
-    
-   static let tintColor = UIColor(red: 0/255.0, green: 139/255.0, blue:203/255.0, alpha:1)
+    static let kApplicationShortcutUserInfoIcon = "ApplicationShortcutUserInfoIconKey"
+
+    static let tintColor = UIColor(red: 0/255.0, green: 139/255.0, blue:203/255.0, alpha:1)
     
     let userHelper = THUserHelper.shared
-    
-    
+
+
 
     var window: UIWindow?
-    
+
     /// Saved shortcut item used as a result of an app launch, used later when app is activated.
     var launchedShortcutItem: UIApplicationShortcutItem?
-    
+
     let mainController = UITabBarController()
     //let setting = AppSetting.sharedSetting
     
@@ -53,9 +54,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         var handle = false
         
         guard shortCutIdentifier(fullType: shortcutItem.type) != nil else { return false }
-        
-         guard let shortCutType = shortcutItem.type as String? else { return false }
-        
+
+        guard let shortCutType = shortcutItem.type as String? else { return false }
+
         switch shortCutType {
         case shortCutIdentifier.post.type:
             mainController.selectedIndex = 0
@@ -132,6 +133,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     //进入主界面
     func homePageViewShow(){
+        //暂时在此处获取各种第三方token之类
+        self.getToken()
+        
+        
         mainController.viewControllers = rootViewController()
         //进入后默认显示第一个 版面列表
         mainController.selectedIndex = 0
@@ -147,6 +152,25 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
       
     }
     
+    //获取token
+    func getToken(){
+        NetworkTools.shareInstance.requestData(methodType: .GET, urlString: getTokenAPI, parameters: nil ) { (result, error) in
+            
+            if error != nil {
+                LXFLog(error)
+            } else {
+                let json = JSON(result!)
+                let code = json["code"]
+                if code == 100{
+                     THUserHelper.shared.token = json["body"]["token"].string
+                    print(THUserHelper.shared.token!)
+                }
+                else {
+                    //token获取失败
+                    }
+                }
+            }
+                    }
 
     func applicationWillResignActive(_ application: UIApplication) {
         // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.

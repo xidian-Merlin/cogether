@@ -9,11 +9,15 @@
 
 let commonAPI = "http://114.115.221.206:8088/campus/"  //华为云
 
+let qiniuCommom = "http://oopqx0v1l.bkt.clouddn.com/"
+
 let checkPhoneAPI = commonAPI+"user/checkPhone"  //验证手机号接口
 
 let doLoginAPI = commonAPI+"user/doLogin"   //用户名&密码 登录接口
 
 let doRegistAPI = commonAPI+"user/doRegister"  //提交注册信息
+
+let reSetPassWordAPI = commonAPI+"/user/resetPassword" //重置密码
 
 let completeUserInfoAPI = commonAPI+"/user/completeUserInfo" //完善个人信息接口
 
@@ -28,6 +32,8 @@ let getArticleDetailsAPI = commonAPI+"article/getArticleDetails" //获取帖子�
 let getRecommendUser = commonAPI+"user/getRecommend/Update"  //获取推荐的用户
 
 let getMoreRecommendUser = commonAPI+"user/getRecommend/LoadMore" //获取更多用户
+
+let getTokenAPI = commonAPI+"image/getToken"  //获取七牛云token
 
 
 

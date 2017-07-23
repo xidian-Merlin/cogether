@@ -22,6 +22,7 @@ class DiscoverViewController: UIViewController {
             make.left.equalTo(0)
             make.right.equalTo(0)
             make.height.equalTo(44)
+    
         
             //make.edges.equalTo(self.view).inset(UIEdgeInsetsMake(0, 0, 0, 0))
         }

@@ -148,9 +148,9 @@ class EditViewController: UIViewController {
 //    var EditIntroduceInfo:String?
      //MARK:- 标题信息数组
     lazy var titleInfoArray:[String] = {
-        return [EditSignatureInfo, EditNameInfo, EditSexInfo, EditSchoolInfo,EditEducationInfo,EditLocationInfo,EditIntroduceInfo]
+        return [EditSignatureInfo!, EditNameInfo!, EditSexInfo!, EditSchoolInfo!,EditEducationInfo!,EditLocationInfo!,EditIntroduceInfo!]
                 
-    }() as! [String]
+    }()
     
     
    //-MARK:- 懒加载 editName 视图

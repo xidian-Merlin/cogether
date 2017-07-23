@@ -27,8 +27,4 @@ class THUserHelper: NSObject {
     func saveLoginMark(value : Bool) {
         UserDefaults.setValue(value, forKey: "isLogin")
     }
-    
-    
-    
-
 }

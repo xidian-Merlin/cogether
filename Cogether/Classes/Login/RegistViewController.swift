@@ -13,6 +13,7 @@ import SVProgressHUD
 
 class RegistViewController: UIViewController {
 
+    @IBOutlet weak var submitBtn: UIButton!
     @IBOutlet weak var telPhoneNumber: UITextField!
     @IBOutlet weak var verifyNumber: UITextField!
     @IBAction func getVeriCode(_ sender: UIButton) {
@@ -20,8 +21,7 @@ class RegistViewController: UIViewController {
         
   //  let params: Parameters = ["userName": telPhoneNumber.text]
         
-          let params: Dictionary = ["userName" : telPhoneNumber.text]
-       
+        let params: Dictionary = ["userName" : telPhoneNumber.text]
         print(checkPhoneAPI)
         NetworkTools.shareInstance.requestData(methodType: .POST, urlString: checkPhoneAPI, parameters: params as? [String : String] ) { (result, error) in
             if error != nil {
@@ -79,19 +79,12 @@ class RegistViewController: UIViewController {
         settingPassVc.userName = telPhoneNumber.text
         self.navigationController?.pushViewController(settingPassVc, animated: true)
         
-        
-  
-        
-        
-        
-        
-        
-        
     }
     override func viewDidLoad() {
         super.viewDidLoad()
         self.title = "注册"
         self.view.backgroundColor = UIColor.hexInt(0xf3f3f3)
+        submitBtn.backgroundColor = kSystemBlueColor
 
         // Do any additional setup after loading the view.
     }
@@ -113,8 +106,6 @@ class RegistViewController: UIViewController {
     */
 
 }
-
-
 
 extension RegistViewController{
 
